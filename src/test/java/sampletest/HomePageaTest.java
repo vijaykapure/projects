@@ -30,6 +30,7 @@ public class HomePageaTest extends Baseclass {
 	public static void setup() {
 		
 		launchApp("chrome");
+		System.out.println("karan has update the project");
 	}
 
 	@Test
