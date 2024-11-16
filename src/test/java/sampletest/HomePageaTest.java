@@ -59,11 +59,7 @@ public class HomePageaTest extends Baseclass {
 	@AfterMethod
 	public void teardown() {
 		System.out.println("karan has update the 2nd code line");
-<<<<<<< HEAD
-		System.out.println("karan has update the 2nd code line");
 
-=======
->>>>>>> 72d8bd06d6044a6b64fe4e41a70022fdca9eaed5
 		driver.close();
 	}
 }
