@@ -1,0 +1,1 @@
+{"uuid":"6f604688-6f7b-40f3-b859-c7c25adc9a60","name":"utility.Extendreportclass.setup","children":["f84bc0a6-52ee-419c-b852-1e0d10873531"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1730542398686,"stop":1730542400724}],"afters":[],"start":1730542398686,"stop":1730542400724}

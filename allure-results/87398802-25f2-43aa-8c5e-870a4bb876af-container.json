@@ -1,0 +1,1 @@
+{"uuid":"87398802-25f2-43aa-8c5e-870a4bb876af","name":"sampletest.basic3.setup","children":["35776c53-885a-411d-b1f4-c58bb043cd04"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1731507731274,"stop":1731507751152}],"afters":[],"start":1731507731269,"stop":1731507751154}
