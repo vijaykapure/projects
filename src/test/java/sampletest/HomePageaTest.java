@@ -51,11 +51,7 @@ public class HomePageaTest extends Baseclass {
     @AfterMethod
     public void teardown() throws IOException
     {
-        System.out.println("karan has update the 21nd code line");
-        System.out.println("karan has update the 22nd code line");
-        System.out.println("karan has update the 23nd code line");
-
-
+        System.out.println("krish has update the 21nd code line");
         driver.close();
     }
 }
