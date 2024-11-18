@@ -1,1 +1,61 @@
-{"uuid":"058bfe8f-8b3d-4c60-b4ed-4d1e5bbf958e","historyId":"2c36ff517dde9399f0beba409002811e","fullName":"sampletest.HomePageaTest.login","labels":[{"name":"package","value":"sampletest.HomePageaTest"},{"name":"testClass","value":"sampletest.HomePageaTest"},{"name":"testMethod","value":"login"},{"name":"parentSuite","value":"Default suite"},{"name":"suite","value":"Default test"},{"name":"subSuite","value":"sampletest.HomePageaTest"},{"name":"host","value":"DESKTOP-IIVT408"},{"name":"thread","value":"9776@DESKTOP-IIVT408.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"login","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1730192916169,"stop":1730192926090}
+{
+  "uuid": "058bfe8f-8b3d-4c60-b4ed-4d1e5bbf958e",
+  "historyId": "2c36ff517dde9399f0beba409002811e",
+  "fullName": "sampletest.HomePageaTest.login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testClass",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default suite"
+    },
+    {
+      "name": "suite",
+      "value": "Default test"
+    },
+    {
+      "name": "subSuite",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-IIVT408"
+    },
+    {
+      "name": "thread",
+      "value": "9776@DESKTOP-IIVT408.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730192916169,
+  "stop": 1730192926090
+}

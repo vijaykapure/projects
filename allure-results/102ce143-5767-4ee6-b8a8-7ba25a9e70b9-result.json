@@ -1,1 +1,61 @@
-{"uuid":"102ce143-5767-4ee6-b8a8-7ba25a9e70b9","historyId":"90ce03569fdc94f23caeed9d57466c3f","fullName":"utility.Extendreportclass.login","labels":[{"name":"package","value":"utility.Extendreportclass"},{"name":"testClass","value":"utility.Extendreportclass"},{"name":"testMethod","value":"login"},{"name":"parentSuite","value":"Default suite"},{"name":"suite","value":"Default test"},{"name":"subSuite","value":"utility.Extendreportclass"},{"name":"host","value":"DESKTOP-IIVT408"},{"name":"thread","value":"18632@DESKTOP-IIVT408.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"login","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1730540573816,"stop":1730540590926}
+{
+  "uuid": "102ce143-5767-4ee6-b8a8-7ba25a9e70b9",
+  "historyId": "90ce03569fdc94f23caeed9d57466c3f",
+  "fullName": "utility.Extendreportclass.login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "utility.Extendreportclass"
+    },
+    {
+      "name": "testClass",
+      "value": "utility.Extendreportclass"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default suite"
+    },
+    {
+      "name": "suite",
+      "value": "Default test"
+    },
+    {
+      "name": "subSuite",
+      "value": "utility.Extendreportclass"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-IIVT408"
+    },
+    {
+      "name": "thread",
+      "value": "18632@DESKTOP-IIVT408.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730540573816,
+  "stop": 1730540590926
+}

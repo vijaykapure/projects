@@ -1,1 +1,61 @@
-{"uuid":"28ea2866-8902-4372-bc64-58cc40b61f62","historyId":"36a21ef550c9ff4371887a8ae6b02fd7","fullName":"sampletest.HomePageaTest.Varifytitle","labels":[{"name":"package","value":"sampletest.HomePageaTest"},{"name":"testClass","value":"sampletest.HomePageaTest"},{"name":"testMethod","value":"Varifytitle"},{"name":"parentSuite","value":"Default suite"},{"name":"suite","value":"Default test"},{"name":"subSuite","value":"sampletest.HomePageaTest"},{"name":"host","value":"DESKTOP-IIVT408"},{"name":"thread","value":"12528@DESKTOP-IIVT408.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"Varifytitle","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1730191712687,"stop":1730191712702}
+{
+  "uuid": "28ea2866-8902-4372-bc64-58cc40b61f62",
+  "historyId": "36a21ef550c9ff4371887a8ae6b02fd7",
+  "fullName": "sampletest.HomePageaTest.Varifytitle",
+  "labels": [
+    {
+      "name": "package",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testClass",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Varifytitle"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default suite"
+    },
+    {
+      "name": "suite",
+      "value": "Default test"
+    },
+    {
+      "name": "subSuite",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-IIVT408"
+    },
+    {
+      "name": "thread",
+      "value": "12528@DESKTOP-IIVT408.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Varifytitle",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730191712687,
+  "stop": 1730191712702
+}

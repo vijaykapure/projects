@@ -1,1 +1,61 @@
-{"uuid":"2a7bceab-dd6c-4798-9c39-3ce09e1f2f45","historyId":"2c36ff517dde9399f0beba409002811e","fullName":"sampletest.HomePageaTest.login","labels":[{"name":"package","value":"sampletest.HomePageaTest"},{"name":"testClass","value":"sampletest.HomePageaTest"},{"name":"testMethod","value":"login"},{"name":"parentSuite","value":"Default suite"},{"name":"suite","value":"Default test"},{"name":"subSuite","value":"sampletest.HomePageaTest"},{"name":"host","value":"DESKTOP-IIVT408"},{"name":"thread","value":"12528@DESKTOP-IIVT408.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"login","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1730191712744,"stop":1730191730241}
+{
+  "uuid": "2a7bceab-dd6c-4798-9c39-3ce09e1f2f45",
+  "historyId": "2c36ff517dde9399f0beba409002811e",
+  "fullName": "sampletest.HomePageaTest.login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testClass",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default suite"
+    },
+    {
+      "name": "suite",
+      "value": "Default test"
+    },
+    {
+      "name": "subSuite",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-IIVT408"
+    },
+    {
+      "name": "thread",
+      "value": "12528@DESKTOP-IIVT408.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730191712744,
+  "stop": 1730191730241
+}

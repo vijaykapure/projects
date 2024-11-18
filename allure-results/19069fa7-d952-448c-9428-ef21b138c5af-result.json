@@ -1,1 +1,61 @@
-{"uuid":"19069fa7-d952-448c-9428-ef21b138c5af","historyId":"52763a2b51febe644d1c5cfdeb8a1623","fullName":"sampletest.Basic.basic","labels":[{"name":"package","value":"sampletest.Basic"},{"name":"testClass","value":"sampletest.Basic"},{"name":"testMethod","value":"basic"},{"name":"parentSuite","value":"Default suite"},{"name":"suite","value":"Default test"},{"name":"subSuite","value":"sampletest.Basic"},{"name":"host","value":"DESKTOP-IIVT408"},{"name":"thread","value":"5992@DESKTOP-IIVT408.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"sample test case","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1730109089776,"stop":1730109095959}
+{
+  "uuid": "19069fa7-d952-448c-9428-ef21b138c5af",
+  "historyId": "52763a2b51febe644d1c5cfdeb8a1623",
+  "fullName": "sampletest.Basic.basic",
+  "labels": [
+    {
+      "name": "package",
+      "value": "sampletest.Basic"
+    },
+    {
+      "name": "testClass",
+      "value": "sampletest.Basic"
+    },
+    {
+      "name": "testMethod",
+      "value": "basic"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default suite"
+    },
+    {
+      "name": "suite",
+      "value": "Default test"
+    },
+    {
+      "name": "subSuite",
+      "value": "sampletest.Basic"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-IIVT408"
+    },
+    {
+      "name": "thread",
+      "value": "5992@DESKTOP-IIVT408.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "sample test case",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730109089776,
+  "stop": 1730109095959
+}

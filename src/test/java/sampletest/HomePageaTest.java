@@ -1,65 +1,61 @@
 package sampletest;
 
+import base.Baseclass;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 import org.testng.AssertJUnit;
-import org.testng.AssertJUnit;
-import org.testng.ITestListener;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.Assert;
-import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-
-import com.google.common.util.concurrent.ServiceManager.Listener;
-
-import base.Baseclass;
-import io.github.bonigarcia.wdm.WebDriverManager;
 import pageobjects.Homepage;
-import utility.Extendreportclass;
+
+import java.io.IOException;
 
 
 public class HomePageaTest extends Baseclass {
-	Homepage getHomepage;
+    Homepage getHomepage;
 
-	@BeforeMethod
-	public static void setup() {
-		
-		launchApp("chrome");
-		System.out.println("karan has update the project");
-	}
+    @BeforeMethod
+    public static void setup() {
 
-	@Test
-	public void Varifylogo() {
-		getHomepage = new Homepage(driver);
-		boolean result = getHomepage.ValidateLogo();
-		AssertJUnit.assertTrue(result);
-	}
-	@Test
+        launchApp("chrome");
+        System.out.println("karan has update the project");
+    }
 
-	public void Varifytitle() {
-		getHomepage = new Homepage(driver);
-		String Actualtitle = getHomepage.ValidateTitle();
-		String Expectedtitle = "Index";
-		AssertJUnit.assertEquals(Actualtitle, Expectedtitle);
+    @Test
+    public void Varifylogo() {
+        getHomepage = new Homepage(driver);
+        boolean result = getHomepage.ValidateLogo();
+        AssertJUnit.assertTrue(result);
+    }
 
-	}
-	@Test
+    @Severity(SeverityLevel.NORMAL)
+    @Test
 
-	public void login() {
-		getHomepage = new Homepage(driver);
-		getHomepage.loginWithEmailOrSkip(true);
+    public void Varifytitle() {
+        getHomepage = new Homepage(driver);
+        String Actualtitle = getHomepage.ValidateTitle();
+        String Expectedtitle = "Index";
+        AssertJUnit.assertEquals(Actualtitle, Expectedtitle);
 
-	}
+    }
 
-	@AfterMethod
-	public void teardown() {
-		System.out.println("karan has update the 2nd code line");
-	
-		driver.close();
-	}
+    @Test
+
+    public void login() {
+        getHomepage = new Homepage(driver);
+        getHomepage.loginWithEmailOrSkip(true);
+
+    }
+
+    @AfterMethod
+    public void teardown() throws IOException
+    {
+        System.out.println("karan has update the 21nd code line");
+        System.out.println("karan has update the 22nd code line");
+        System.out.println("karan has update the 23nd code line");
+
+
+        driver.close();
+    }
 }

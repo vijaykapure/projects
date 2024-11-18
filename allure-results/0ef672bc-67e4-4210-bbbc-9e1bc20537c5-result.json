@@ -1,1 +1,61 @@
-{"uuid":"0ef672bc-67e4-4210-bbbc-9e1bc20537c5","historyId":"99b026930293a4ce21ae4ed1c423034b","fullName":"sampletest.HomePageaTest.setup","labels":[{"name":"package","value":"sampletest.HomePageaTest"},{"name":"testClass","value":"sampletest.HomePageaTest"},{"name":"testMethod","value":"setup"},{"name":"parentSuite","value":"Default suite"},{"name":"suite","value":"Default test"},{"name":"subSuite","value":"sampletest.HomePageaTest"},{"name":"host","value":"DESKTOP-IIVT408"},{"name":"thread","value":"11224@DESKTOP-IIVT408.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"sample test case","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1730188334903,"stop":1730188339947}
+{
+  "uuid": "0ef672bc-67e4-4210-bbbc-9e1bc20537c5",
+  "historyId": "99b026930293a4ce21ae4ed1c423034b",
+  "fullName": "sampletest.HomePageaTest.setup",
+  "labels": [
+    {
+      "name": "package",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testClass",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "setup"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default suite"
+    },
+    {
+      "name": "suite",
+      "value": "Default test"
+    },
+    {
+      "name": "subSuite",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-IIVT408"
+    },
+    {
+      "name": "thread",
+      "value": "11224@DESKTOP-IIVT408.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "sample test case",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730188334903,
+  "stop": 1730188339947
+}

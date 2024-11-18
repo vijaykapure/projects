@@ -1,1 +1,61 @@
-{"uuid":"0068a4f4-97e3-4c73-a964-7a1f0b343e6b","historyId":"b8ff38a662beb00e963f64520ab48e1b","fullName":"utility.Extendreportclass.Varifylogo","labels":[{"name":"package","value":"utility.Extendreportclass"},{"name":"testClass","value":"utility.Extendreportclass"},{"name":"testMethod","value":"Varifylogo"},{"name":"parentSuite","value":"Default suite"},{"name":"suite","value":"Default test"},{"name":"subSuite","value":"utility.Extendreportclass"},{"name":"host","value":"DESKTOP-IIVT408"},{"name":"thread","value":"19576@DESKTOP-IIVT408.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"Varifylogo","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1730541388870,"stop":1730541389136}
+{
+  "uuid": "0068a4f4-97e3-4c73-a964-7a1f0b343e6b",
+  "historyId": "b8ff38a662beb00e963f64520ab48e1b",
+  "fullName": "utility.Extendreportclass.Varifylogo",
+  "labels": [
+    {
+      "name": "package",
+      "value": "utility.Extendreportclass"
+    },
+    {
+      "name": "testClass",
+      "value": "utility.Extendreportclass"
+    },
+    {
+      "name": "testMethod",
+      "value": "Varifylogo"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default suite"
+    },
+    {
+      "name": "suite",
+      "value": "Default test"
+    },
+    {
+      "name": "subSuite",
+      "value": "utility.Extendreportclass"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-IIVT408"
+    },
+    {
+      "name": "thread",
+      "value": "19576@DESKTOP-IIVT408.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Varifylogo",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730541388870,
+  "stop": 1730541389136
+}

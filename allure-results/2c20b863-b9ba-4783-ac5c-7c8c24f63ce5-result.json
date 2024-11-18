@@ -1,1 +1,61 @@
-{"uuid":"2c20b863-b9ba-4783-ac5c-7c8c24f63ce5","historyId":"2c36ff517dde9399f0beba409002811e","fullName":"sampletest.HomePageaTest.login","labels":[{"name":"package","value":"sampletest.HomePageaTest"},{"name":"testClass","value":"sampletest.HomePageaTest"},{"name":"testMethod","value":"login"},{"name":"parentSuite","value":"Default suite"},{"name":"suite","value":"Default test"},{"name":"subSuite","value":"sampletest.HomePageaTest"},{"name":"host","value":"DESKTOP-IIVT408"},{"name":"thread","value":"7740@DESKTOP-IIVT408.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"login","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1730187830945,"stop":1730187848806}
+{
+  "uuid": "2c20b863-b9ba-4783-ac5c-7c8c24f63ce5",
+  "historyId": "2c36ff517dde9399f0beba409002811e",
+  "fullName": "sampletest.HomePageaTest.login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testClass",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default suite"
+    },
+    {
+      "name": "suite",
+      "value": "Default test"
+    },
+    {
+      "name": "subSuite",
+      "value": "sampletest.HomePageaTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-IIVT408"
+    },
+    {
+      "name": "thread",
+      "value": "7740@DESKTOP-IIVT408.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730187830945,
+  "stop": 1730187848806
+}

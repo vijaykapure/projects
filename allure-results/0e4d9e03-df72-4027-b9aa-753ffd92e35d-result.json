@@ -1,1 +1,61 @@
-{"uuid":"0e4d9e03-df72-4027-b9aa-753ffd92e35d","historyId":"58bd3dd63ae7f8bc5c8ab5d435deb40c","fullName":"sampletest.basic3.Varifylogo","labels":[{"name":"package","value":"sampletest.basic3"},{"name":"testClass","value":"sampletest.basic3"},{"name":"testMethod","value":"Varifylogo"},{"name":"parentSuite","value":"Suite"},{"name":"suite","value":"Test"},{"name":"subSuite","value":"sampletest.basic3"},{"name":"host","value":"DESKTOP-IIVT408"},{"name":"thread","value":"1996@DESKTOP-IIVT408.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"Varifylogo","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1731564911102,"stop":1731564911325}
+{
+  "uuid": "0e4d9e03-df72-4027-b9aa-753ffd92e35d",
+  "historyId": "58bd3dd63ae7f8bc5c8ab5d435deb40c",
+  "fullName": "sampletest.basic3.Varifylogo",
+  "labels": [
+    {
+      "name": "package",
+      "value": "sampletest.basic3"
+    },
+    {
+      "name": "testClass",
+      "value": "sampletest.basic3"
+    },
+    {
+      "name": "testMethod",
+      "value": "Varifylogo"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Test"
+    },
+    {
+      "name": "subSuite",
+      "value": "sampletest.basic3"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-IIVT408"
+    },
+    {
+      "name": "thread",
+      "value": "1996@DESKTOP-IIVT408.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Varifylogo",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1731564911102,
+  "stop": 1731564911325
+}

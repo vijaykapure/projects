@@ -24,6 +24,8 @@ import pageobjects.Homepage;
 import utility.Extendreportclass;
 import utility.Listener;
 
+import java.io.IOException;
+
 public class basic3 extends Baseclass {
 
 	public static Homepage getHomepage;
@@ -35,14 +37,14 @@ public class basic3 extends Baseclass {
 	}
 
 	@Test
-	public void Varifylogo() {
+	public void Varifylogo() throws IOException {
 		getHomepage = new Homepage(driver);
 		boolean result = getHomepage.ValidateLogo();
 		Assert.assertTrue(result);
 	}
 
 	@Test
-	public void Varifytitle() {
+	public void Varifytitle() throws IOException {
 
 		getHomepage = new Homepage(driver);
 		String Actualtitle = getHomepage.ValidateTitle();
@@ -52,7 +54,7 @@ public class basic3 extends Baseclass {
 	}
 
 	@Test
-	public void login() {
+	public void login() throws IOException {
 
 		getHomepage = new Homepage(driver);
 		getHomepage.loginWithEmailOrSkip(true);
@@ -60,18 +62,20 @@ public class basic3 extends Baseclass {
 	}
 
 	@Test
-	public void failtest() {
+	public void failtest()throws IOException
+	{
 		Assert.assertTrue(false);
 	}
 
 	@Test
-	public void skiptest() {
+	public void skiptest() throws IOException
+	{
 
 		throw new SkipException("skip this test case");
 	}
 
 	@AfterMethod
-	public void teardown(ITestResult result) {
+	public void teardown( ) throws IOException{
 
 		driver.close();
 	}
